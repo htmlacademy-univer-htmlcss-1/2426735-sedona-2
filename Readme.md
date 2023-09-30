@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Никита Федотов](https://up.htmlacademy.ru/univer-html1/2/user/2426735).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Владимирович Самохвалов]([https://up.htmlacademy.ru/univer-html1/2/user/2426735](https://htmlacademy.ru/profile/id1443429)).
 
 ---
 
